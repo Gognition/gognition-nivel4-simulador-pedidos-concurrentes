@@ -21,7 +21,7 @@ Para utilizar este simulador, asegúrate de tener Go instalado en tu sistema.
 2. Clona tu fork a tu máquina local:
 
 ```bash
-git clone https://github.com/TU_USUARIO/gognition-nivel4-simulador-pedidos.git
+git clone https://github.com/TU_USUARIO/gognition-nivel4-simulador-pedidos-concurrentes.git
 ```
 
 ## 💻️ Uso
